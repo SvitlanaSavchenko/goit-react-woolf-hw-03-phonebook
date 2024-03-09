@@ -1,0 +1,15 @@
+.listItem {
+  margin-bottom: 20px;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #a6cef1;
+}
